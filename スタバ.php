@@ -1,8 +1,8 @@
 <?php
 
-$dsn='mysql:dbname=tb280093db;host=localhost';
-$user='tb-280093';
-$password='dRE8EpXXby';
+$dsn='XXXXXXXXX';
+$user='XXXXXX';
+$password='XXXXXXXXX';
 
 $pdo=
 new PDO(
